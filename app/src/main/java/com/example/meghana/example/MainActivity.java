@@ -1,11 +1,13 @@
 package com.example.meghana.example;
 
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         assert fab != null;
 
+        TextView tv1 = (TextView) findViewById(R.id.text1);
+        Typeface tf =Typeface.createFromAsset(getAssets(),"fonts/Roboto-BoldItalic.ttf");
+        tv1.setTypeface(tf);
     }
 
     @Override
