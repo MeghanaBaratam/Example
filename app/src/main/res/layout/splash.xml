@@ -9,7 +9,7 @@
         android:id="@+id/text1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="GudMrngg!!"
+        android:text="Mrngg!!"
         android:textSize="45sp"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
