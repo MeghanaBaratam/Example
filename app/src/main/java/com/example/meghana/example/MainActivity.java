@@ -17,8 +17,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.splash);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+            // fab for floating button..
+            // it is bottom of screen.
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+
+        // assert is to check if fab is null or not.
         assert fab != null;
 
         TextView tv1 = (TextView) findViewById(R.id.text1);
