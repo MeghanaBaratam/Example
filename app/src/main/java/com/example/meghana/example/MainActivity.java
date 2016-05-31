@@ -1,20 +1,18 @@
 package com.example.meghana.example;
 
-import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.splash);
+        setContentView(R.layout.images);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
             // fab for floating button..
@@ -25,9 +23,9 @@ public class MainActivity extends AppCompatActivity {
         // assert is to check if fab is null or not.
         assert fab != null;
 
-        TextView tv1 = (TextView) findViewById(R.id.text1);
-        Typeface tf =Typeface.createFromAsset(getAssets(),"fonts/Roboto-BoldItalic.ttf");
-        tv1.setTypeface(tf);
+//        TextView tv1 = (TextView) findViewById(R.id.text1);
+//        Typeface tf =Typeface.createFromAsset(getAssets(),"fonts/Roboto-BoldItalic.ttf");
+//        tv1.setTypeface(tf);
     }
 
     @Override
