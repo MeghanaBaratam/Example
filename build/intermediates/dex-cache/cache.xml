@@ -5,71 +5,8 @@
         jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="954d8dd460e2c4454535d6a198b5c55d83148aa0">
+        sha1="4cef1abc2755669091329a91ae0094417551048b">
         <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ecc71209f3f1245498f955ec6bfb00329613c034.jar" />
-    </item>
-    <item
-        jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_a7bc68c955bc53b95ec6181fb42dfcb7146036a5.jar" />
-    </item>
-    <item
-        jar="/home/meghana/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_310c92df2884c1314f3ec05dc72e7fcb69abf079.jar" />
-    </item>
-    <item
-        jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_e6bd9ad7b406d0194380bfe32ad85c03dde474a3.jar" />
-    </item>
-    <item
-        jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_8b22ad5c2320a897ba1304aa1f2e01b412844b84.jar" />
-    </item>
-    <item
-        jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_ef59e5995b906ffb9eb626732c155db7ee918855.jar" />
-    </item>
-    <item
-        jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_3e2b19cb6a63c6c30147f925fa485ce67640bdc2.jar" />
-    </item>
-    <item
-        jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_e12384d69168363630425468ca49624cf234d040.jar" />
-    </item>
-    <item
-        jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_3cadbf2ea43c7f8601afde1f38759b861399c9a0.jar" />
-    </item>
-    <item
-        jar="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="2a5de14fc102e35f2b0ac5966cd44449b42baba3">
-        <dex dex="/home/meghana/AndroidStudioProjects/Example/app/build/intermediates/pre-dexed/debug/instant-run_851f86ee5a88b0c95e4b0178102a2c8658f24724.jar" />
     </item>
 
 </items>
